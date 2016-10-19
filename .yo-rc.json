@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spfx-webpart-slideshow",
+    "libraryId": "6f023f56-c75b-452b-bb87-cb8cec150494",
+    "framework": "none"
+  }
+}

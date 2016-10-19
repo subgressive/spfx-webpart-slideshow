@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-webpart-slideshow-client-side-solution",
+    "id": "6f023f56-c75b-452b-bb87-cb8cec150494",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-webpart-slideshow.spapp"
+  }
+}

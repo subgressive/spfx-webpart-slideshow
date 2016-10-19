@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "d048ce03-4b08-4aea-855f-b0c7ecba12ca",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "d048ce03-4b08-4aea-855f-b0c7ecba12ca",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Schrodingers Cat" },
+    "description": { "default": "SPFx Slideshow WebPart" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "...let's look inside the box",
+      "multitext": "Multi-line text field",
+      "checkbox": true,
+      "dropdown": "The Jag Lives :)",
+      "toggle": true
+    }
+  }]
+}
